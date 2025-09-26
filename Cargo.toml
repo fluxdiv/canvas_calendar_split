@@ -1,0 +1,10 @@
+[package]
+name = "canvas_calendar_split"
+version = "0.1.0"
+edition = "2024"
+authors = ["fluxdiv <156196590+fluxdiv@users.noreply.github.com>"]
+
+[dependencies]
+anyhow = "1.0.99"
+icalendar = "0.17.3"
+rustc-hash = "2.1.1"
